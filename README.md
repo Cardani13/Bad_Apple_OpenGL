@@ -27,7 +27,7 @@ Para ejecutar este proyecto necesitas:
 
 1.  **Clonar el repositorio:**
     ```bash
-    git clone [https://github.com/Cardani13/Bad_Apple_OpenGL.git](https://github.com/Cardani13/Bad_Apple_OpenGL.git)
+    git clone https://github.com/Cardani13/Bad_Apple_OpenGL.git
     ```
 
 2.  **Configurar Librerías (JOGL):**
